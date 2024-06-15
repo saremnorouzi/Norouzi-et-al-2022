@@ -1,4 +1,4 @@
-# Model Calibration Steps for Norouzi et al. (2022)
+# Calibration Steps for Norouzi et al. (2022) Model
 
 This short note describes the steps required to calibrate the newly developed model in Norouzi et al. (2022). This repository contains two main MATLAB codes as well as two `.mat` files containing the soil retention measurements and spectral reflectance data.
 
